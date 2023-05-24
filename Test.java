@@ -7,5 +7,7 @@ public class Test {
         System.out.println("---------------------------------------------------");
 
         System.out.println("another line");
+
+        System.out.println("linea aggiunta su iridium");
     }
 }
