@@ -5,5 +5,7 @@ public class Test {
         System.out.println("Buonasera agli italiani in ascolto");
 
         System.out.println("---------------------------------------------------");
+
+        System.out.println("another line");
     }
 }
